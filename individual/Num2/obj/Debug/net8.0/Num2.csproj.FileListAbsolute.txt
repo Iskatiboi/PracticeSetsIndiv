@@ -1,0 +1,14 @@
+C:\Users\Ryzen\desktop\individual\num2\bin\Debug\net8.0\Num2.exe
+C:\Users\Ryzen\desktop\individual\num2\bin\Debug\net8.0\Num2.deps.json
+C:\Users\Ryzen\desktop\individual\num2\bin\Debug\net8.0\Num2.runtimeconfig.json
+C:\Users\Ryzen\desktop\individual\num2\bin\Debug\net8.0\Num2.dll
+C:\Users\Ryzen\desktop\individual\num2\bin\Debug\net8.0\Num2.pdb
+C:\Users\Ryzen\desktop\individual\num2\obj\Debug\net8.0\Num2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryzen\desktop\individual\num2\obj\Debug\net8.0\Num2.AssemblyInfoInputs.cache
+C:\Users\Ryzen\desktop\individual\num2\obj\Debug\net8.0\Num2.AssemblyInfo.cs
+C:\Users\Ryzen\desktop\individual\num2\obj\Debug\net8.0\Num2.csproj.CoreCompileInputs.cache
+C:\Users\Ryzen\desktop\individual\num2\obj\Debug\net8.0\Num2.dll
+C:\Users\Ryzen\desktop\individual\num2\obj\Debug\net8.0\refint\Num2.dll
+C:\Users\Ryzen\desktop\individual\num2\obj\Debug\net8.0\Num2.pdb
+C:\Users\Ryzen\desktop\individual\num2\obj\Debug\net8.0\Num2.genruntimeconfig.cache
+C:\Users\Ryzen\desktop\individual\num2\obj\Debug\net8.0\ref\Num2.dll
